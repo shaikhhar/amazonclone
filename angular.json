@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "AngularAmazono": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularAmazono"
+    }
+  },
+  "defaultProject": "AngularAmazono",
+  "cli": {
+    "analytics": "e11e38bb-b2ff-46fa-a2e6-eaf53b9d32a6"
+  }
 }
